@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
-  "gitHead": "088b165b72720d76ea78a611e5d0eb9878ceb84d"
+  "gitHead": "9f75699509243d149c7ccfb845d2a810c9226c94"
 }

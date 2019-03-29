@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/@ghost/pkgdemo"
+    "packages/*"
   ],
   "version": "0.1.6",
   "publishConfig": {
