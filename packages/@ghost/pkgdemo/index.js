@@ -1,2 +1,3 @@
-console.log(666)
-console.log(666)
+module.exports = {
+  log: console.log(66)
+}
