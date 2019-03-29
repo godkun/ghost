@@ -1,6 +1,6 @@
 {
   "name": "@ghost/pkgdmeo",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,5 @@
     "access": "public"
   },
   "author": "",
-  "license": "ISC",
-  "gitHead": "9f75699509243d149c7ccfb845d2a810c9226c94"
+  "license": "ISC"
 }
